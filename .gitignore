@@ -1,4 +1,5 @@
 # Node Modules
 node_modules
 # system files
-.DS_storeyarn-error.log
+.DS_store
+yarn-error.log
