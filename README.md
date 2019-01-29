@@ -12,7 +12,7 @@ String.prototype.titleCase([special cases: Array])
 'fiddler on the roof'.titleCase()
 // 'Fiddler on the Roof'
 'at&t is amazing: the movie'.titleCase(['AT&T'])
-// 'AT&T is Amazing: the Movie
+// 'AT&T is Amazing: The Movie
 'garfield 3: cat on a hot lasagne roof'.titleCase(['On','A','hot'])
 // 'Garfield 3: Cat On A hot Lasagne Roof'
 ```
